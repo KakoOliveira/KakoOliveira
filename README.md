@@ -276,7 +276,7 @@ Meu portfólio técnico reúne projetos, arquiteturas e estudos de caso envolven
 
 # 🤝 Vamos conversar?
 
-Estou sempre interessado em trocar experiências sobre **Engenharia de Software, Python, Automação, Dados, IA e arquitetura de soluções**.
+Estou sempre interessado em trocar experiências sobre **Engenharia de Software, Python, Automação, Dados, IA e Arquitetura de Soluções**.
 
 **LinkedIn:**
 linkedin.com/in/kako-oliveira-03741b18a
